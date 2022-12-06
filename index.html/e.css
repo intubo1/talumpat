@@ -1,0 +1,30 @@
+*{
+    font-family: sans-serif;
+    text-align: center;
+}
+
+body{
+    background: salmon;
+}
+
+.bg{
+    background-color: cornflowerblue;
+    border-radius: 5px;
+}
+
+.heading{
+    border-bottom: 2px black solid;
+}
+
+.container{
+    padding: 100px;
+    color: blue;
+    background-color: aquamarine;
+    border-radius: 10px;
+    box-shadow: 2px black;
+}
+
+
+ul{
+    list-style-type:none;
+}
